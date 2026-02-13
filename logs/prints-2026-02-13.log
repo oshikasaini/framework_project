@@ -1,0 +1,5 @@
+20:59:30.401 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+20:59:30.414 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+20:59:36.683 [main] DEBUG stepDefinations.ValidatingWishlistStep - Flower name is enetered in searchbox
+20:59:38.831 [main] DEBUG stepDefinations.ValidatingWishlistStep - Flower found!
+20:59:41.845 [main] DEBUG stepDefinations.ValidatingWishlistStep - Flower is wishlisted
